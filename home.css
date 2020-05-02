@@ -197,5 +197,9 @@ padding: 150px;
     .cursor-follower{
         display: none;
     }
+
+    html,body{
+        cursor: pointer;
+    }
     
 }

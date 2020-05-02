@@ -482,8 +482,13 @@ html, body {
             margin-top: 5px;
         }
 
+        html,body{
+            cursor: pointer;
+        }
+
         cursor{
             display: none;
+            
         }
         
         .cursor-follower{
