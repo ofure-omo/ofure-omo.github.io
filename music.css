@@ -483,16 +483,18 @@ html, body {
         }
 
         html,body{
-            cursor: pointer;
+            cursor: auto;
         }
 
         cursor{
             display: none;
+            opacity: 0;
             
         }
         
         .cursor-follower{
             display: none;
+            opacity: 0;
         }
 
         .cursor.active{
