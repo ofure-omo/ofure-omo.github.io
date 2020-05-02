@@ -33,7 +33,7 @@ html, body {
     top: 0;
     left: 0;
     display: block;
-    background-image: url("/Users/ttn02/Documents/snoh_website/files/cursor.png");
+    background-image: url("snoh_website/files/cursor.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
