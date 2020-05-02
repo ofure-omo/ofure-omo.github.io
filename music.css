@@ -172,7 +172,6 @@ html, body {
     .album-title{
         float: left;
         transform: translate(-40px, 20px);
-        display: inline-block;
         text-align: center;
         margin-left: 40px;
         
@@ -275,7 +274,6 @@ html, body {
     .singles-title{
         float: right;
         transform: translate(-20px, 0px);
-        display: inline-block;
         text-align: center;
         margin-right: 20px;
         
