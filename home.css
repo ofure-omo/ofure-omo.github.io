@@ -70,6 +70,9 @@ cursor: none;
 color: white;
 }
 
+#navbar a:hover{
+    cursor: none;
+}
 
 .video-container {
     width: 100%;
