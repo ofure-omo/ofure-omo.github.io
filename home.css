@@ -189,4 +189,13 @@ padding: 150px;
     .text {
         font-size: 0.9em;
     }
+
+    cursor{
+        display: none;
+    }
+    
+    .cursor-follower{
+        display: none;
+    }
+    
 }

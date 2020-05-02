@@ -481,6 +481,30 @@ html, body {
             text-align: center;
             margin-top: 5px;
         }
+
+        cursor{
+            display: none;
+        }
+        
+        .cursor-follower{
+            display: none;
+        }
+
+        .cursor.active{
+            display: none;
+        }
+
+        .cursor::before{
+            display: none;
+        }
+
+        .cursor.active::before{
+            display:none;
+        }
+
+        .cursor-follower.active {
+            display: none;
+        }
     }
 
     /* Responsive layout - makes a two column-layout instead of four columns */
