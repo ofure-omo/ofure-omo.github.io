@@ -186,7 +186,7 @@ html, body {
     }
 
     .letter:hover{
-        color: white;
+        color: pink;
     }
 
     .letter-a{
@@ -288,7 +288,7 @@ html, body {
     }
 
     .single-letter:hover{
-        color: white;
+        color: pink;
     }
 
     .letter-s{
